@@ -2,6 +2,10 @@
 
 A Streamlit app for exploring Fashion-MNIST and training a fully connected neural network to classify its ten apparel categories.
 
+## Live app
+
+[Open Fashion MNIST FCNN Lab](https://fashion-mnist-classification.streamlit.app/)
+
 ## Run locally
 
 Use Python 3.9 or newer. From the project directory, install the dependencies and start Streamlit:
